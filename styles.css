@@ -226,7 +226,7 @@ button{background:none;border:none;cursor:pointer;font-family:inherit;color:inhe
 .hero__image{position:relative;display:flex;justify-content:center}
 
 .hero__photo{
-  width:100%;max-width:420px;
+  width:100%;max-width:600px;
   filter:drop-shadow(0 20px 40px rgba(0,0,0,.6));
   position:relative;z-index:1;
 }
